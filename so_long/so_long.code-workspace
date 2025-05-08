@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "so_long",
+			"path": "."
+		},
+		{
+			"name": "get_next_line.codam",
+			"path": "../get_next_line.codam"
+		},
+		{
+			"name": "minilibx-linux",
+			"path": "../minilibx-linux"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"get_next_line.h": "c"
+		}
+	}
+}
